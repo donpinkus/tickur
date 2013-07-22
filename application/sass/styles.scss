@@ -1,0 +1,54 @@
+// Import all the variables into the main css file.
+@import "variables";
+
+// I gather this file is a starting point for the project.
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+// @import "bootstrap-responsive";
+
+/**
+ * Global Styles
+ */
+
+body {
+	font-family: 'helvetica neue', Helvetica, Arial;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container {
+	margin: 0px auto;
+}
+
+.navbar .container {
+	width: 940px;
+}
+
+/**
+ * Page specific
+ */
+#splashUniversal,
+#userSignUp {
+	.hero-unit {
+		text-align: center;
+		margin-top: 60px;
+	}
+}
+
+#userSignUp {
+	.orSeperator {
+		margin-top: 130px;
+		font-size: 30px;
+	}
+
+	label.control-label {
+		width: 60px;
+	}
+	.form-horizontal .controls {
+		margin-left: 70px;
+	}
+}
