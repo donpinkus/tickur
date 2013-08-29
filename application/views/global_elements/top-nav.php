@@ -1,20 +1,7 @@
-<div id="signUpModal" class="modal hide fade" tabindex="-1" role="dialog">
-  <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal">×</button>
-    <h3 id="myModalLabel">Sign Up</h3>
-  </div>
-  <div class="modal-body">
-    <p>One fine body…</p>
-  </div>
-  <div class="modal-footer">
-    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-    <button class="btn btn-primary">Save changes</button>
-  </div>
-</div>
-<nav class="navbar">
+<nav class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
-			<a class="brand" href="/">Jobgram</a>
+			<a class="brand" href="/">Tickur</a>
 			<div class="pull-right">
 
 <!-- Handle logged in state -->
@@ -52,8 +39,6 @@
   } else {
 ?>
 				<ul class="nav">
-		      <li><a href="/index.php/users">Job-seekers</a></li>
-		      <li><a href="#">Recruiters</a></li>
 		      <li>
 		      	<a href="#logInModal" role="button" data-toggle="modal">
 		      		<i class="icon-user"></i>

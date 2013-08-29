@@ -2453,7 +2453,7 @@ table th[class*="span"],
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url(/images/glyphicons-halflings.png?1371843178);
+  background-image: url(/images/glyphicons-halflings.png?1374463069);
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-top: 1px;
@@ -2478,32 +2478,32 @@ table th[class*="span"],
 .dropdown-submenu:focus > a > [class^="icon-"],
 .dropdown-submenu:hover > a > [class*=" icon-"],
 .dropdown-submenu:focus > a > [class*=" icon-"] {
-  background-image: url(/images/glyphicons-halflings-white.png?1371843178);
+  background-image: url(/images/glyphicons-halflings-white.png?1374463069);
 }
 
 /* line 52, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-glass {
-  background-position: 0 0;
+  background-position: 0      0;
 }
 
 /* line 53, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-music {
-  background-position: -24px 0;
+  background-position: -24px  0;
 }
 
 /* line 54, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-search {
-  background-position: -48px 0;
+  background-position: -48px  0;
 }
 
 /* line 55, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-envelope {
-  background-position: -72px 0;
+  background-position: -72px  0;
 }
 
 /* line 56, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-heart {
-  background-position: -96px 0;
+  background-position: -96px  0;
 }
 
 /* line 57, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -2583,27 +2583,27 @@ table th[class*="span"],
 
 /* line 73, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-home {
-  background-position: 0 -24px;
+  background-position: 0      -24px;
 }
 
 /* line 74, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-file {
-  background-position: -24px -24px;
+  background-position: -24px  -24px;
 }
 
 /* line 75, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-time {
-  background-position: -48px -24px;
+  background-position: -48px  -24px;
 }
 
 /* line 76, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-road {
-  background-position: -72px -24px;
+  background-position: -72px  -24px;
 }
 
 /* line 77, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-download-alt {
-  background-position: -96px -24px;
+  background-position: -96px  -24px;
 }
 
 /* line 78, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -2683,27 +2683,27 @@ table th[class*="span"],
 
 /* line 94, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-tag {
-  background-position: 0 -48px;
+  background-position: 0      -48px;
 }
 
 /* line 95, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-tags {
-  background-position: -25px -48px;
+  background-position: -25px  -48px;
 }
 
 /* line 96, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-book {
-  background-position: -48px -48px;
+  background-position: -48px  -48px;
 }
 
 /* line 97, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-bookmark {
-  background-position: -72px -48px;
+  background-position: -72px  -48px;
 }
 
 /* line 98, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-print {
-  background-position: -96px -48px;
+  background-position: -96px  -48px;
 }
 
 /* line 99, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -2783,27 +2783,27 @@ table th[class*="span"],
 
 /* line 115, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-pencil {
-  background-position: 0 -72px;
+  background-position: 0      -72px;
 }
 
 /* line 116, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-map-marker {
-  background-position: -24px -72px;
+  background-position: -24px  -72px;
 }
 
 /* line 117, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-adjust {
-  background-position: -48px -72px;
+  background-position: -48px  -72px;
 }
 
 /* line 118, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-tint {
-  background-position: -72px -72px;
+  background-position: -72px  -72px;
 }
 
 /* line 119, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-edit {
-  background-position: -96px -72px;
+  background-position: -96px  -72px;
 }
 
 /* line 120, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -2883,27 +2883,27 @@ table th[class*="span"],
 
 /* line 136, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-plus-sign {
-  background-position: 0 -96px;
+  background-position: 0      -96px;
 }
 
 /* line 137, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-minus-sign {
-  background-position: -24px -96px;
+  background-position: -24px  -96px;
 }
 
 /* line 138, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-remove-sign {
-  background-position: -48px -96px;
+  background-position: -48px  -96px;
 }
 
 /* line 139, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-ok-sign {
-  background-position: -72px -96px;
+  background-position: -72px  -96px;
 }
 
 /* line 140, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-question-sign {
-  background-position: -96px -96px;
+  background-position: -96px  -96px;
 }
 
 /* line 141, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -2983,27 +2983,27 @@ table th[class*="span"],
 
 /* line 157, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-exclamation-sign {
-  background-position: 0 -120px;
+  background-position: 0      -120px;
 }
 
 /* line 158, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-gift {
-  background-position: -24px -120px;
+  background-position: -24px  -120px;
 }
 
 /* line 159, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-leaf {
-  background-position: -48px -120px;
+  background-position: -48px  -120px;
 }
 
 /* line 160, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-fire {
-  background-position: -72px -120px;
+  background-position: -72px  -120px;
 }
 
 /* line 161, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-eye-open {
-  background-position: -96px -120px;
+  background-position: -96px  -120px;
 }
 
 /* line 162, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -3086,27 +3086,27 @@ table th[class*="span"],
 
 /* line 178, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-hdd {
-  background-position: 0 -144px;
+  background-position: 0      -144px;
 }
 
 /* line 179, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-bullhorn {
-  background-position: -24px -144px;
+  background-position: -24px  -144px;
 }
 
 /* line 180, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-bell {
-  background-position: -48px -144px;
+  background-position: -48px  -144px;
 }
 
 /* line 181, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-certificate {
-  background-position: -72px -144px;
+  background-position: -72px  -144px;
 }
 
 /* line 182, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
 .icon-thumbs-up {
-  background-position: -96px -144px;
+  background-position: -96px  -144px;
 }
 
 /* line 183, ../../../../.rvm/gems/ruby-2.0.0-p0/gems/bootstrap-sass-2.3.2.0/vendor/assets/stylesheets/bootstrap/_sprites.scss */
@@ -6813,40 +6813,164 @@ body {
 
 /* line 18, ../sass/styles.scss */
 .center {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0px auto;
 }
 
-/* line 23, ../sass/styles.scss */
+/* line 22, ../sass/styles.scss */
 .container {
   margin: 0px auto;
 }
 
-/* line 27, ../sass/styles.scss */
+/* line 26, ../sass/styles.scss */
 .navbar .container {
   width: 940px;
 }
 
-/**
- * Page specific
+/****************
+ * Pages
  */
-/* line 36, ../sass/styles.scss */
-#splashUniversal .hero-unit,
-#userSignUp .hero-unit {
-  text-align: center;
-  margin-top: 60px;
+/* line 39, ../sass/styles.scss */
+#homeFeed body {
+  background-color: #E9EAED;
+}
+/* line 42, ../sass/styles.scss */
+#homeFeed .stockFeed {
+  padding-top: 60px;
+}
+/* line 44, ../sass/styles.scss */
+#homeFeed .stockFeed .tile {
+  margin-bottom: 24px;
+  background-color: white;
+}
+/* line 47, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .bullBearBar {
+  margin-right: -1px;
+  margin-left: -1px;
+}
+/* line 50, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .bullBearBar .bullBar {
+  background-color: #2add4c;
+  float: left;
+  clear: none;
+  height: 3px;
+  width: 60%;
+}
+/* line 57, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .bullBearBar .bearBar {
+  background-color: #e83107;
+  float: left;
+  clear: none;
+  height: 3px;
+  width: 40%;
+}
+/* line 65, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileHead {
+  height: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 8px 12px;
+  margin-right: -1px;
+  margin-left: -1px;
+}
+/* line 71, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileHead .name {
+  float: left;
+  clear: none;
+}
+/* line 75, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileHead .value {
+  float: right;
+  clear: none;
+}
+/* line 78, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileHead .value .positive {
+  color: #2add4c;
+}
+/* line 81, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileHead .value .negative {
+  color: #e83107;
+}
+/* line 87, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer {
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding-top: 8px;
+  margin-left: -1px;
+  margin-right: -1px;
+}
+/* line 95, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer .opinionBlock .stats {
+  padding-left: 12px;
+  margin-right: -12px;
+}
+/* line 98, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer .opinionBlock .stats i {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+}
+/* line 102, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer .opinionBlock .stats i:hover {
+  color: #45619D;
+  cursor: pointer;
+}
+/* line 106, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer .opinionBlock .stats .score {
+  color: rgba(0, 0, 0, 0.5);
+  margin: 0px;
+  padding: 0px;
+}
+/* line 111, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer .opinionBlock .stats .bear {
+  color: #e83107;
+}
+/* line 114, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileContent .opiononBlockContainer .opinionBlock .stats .bull {
+  color: #2add4c;
+}
+/* line 121, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileActions {
+  padding: 8px 12px;
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  margin-left: -1px;
+  margin-right: -1px;
+  background-color: #F6F7F8;
+}
+/* line 129, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileActions .initialActions {
+  height: 28px;
+}
+/* line 132, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileActions .userComment {
+  margin-top: 10px;
+}
+/* line 134, ../sass/styles.scss */
+#homeFeed .stockFeed .tile .tileActions .userComment textarea {
+  width: 95%;
 }
 
-/* line 43, ../sass/styles.scss */
-#userSignUp .orSeperator {
-  margin-top: 130px;
-  font-size: 30px;
+/* line 144, ../sass/styles.scss */
+#stockPage h1 {
+  color: red;
 }
-/* line 48, ../sass/styles.scss */
-#userSignUp label.control-label {
-  width: 60px;
+/* line 145, ../sass/styles.scss */
+#stockPage .stockInfo {
+  padding-top: 60px;
 }
-/* line 51, ../sass/styles.scss */
-#userSignUp .form-horizontal .controls {
-  margin-left: 70px;
+/* line 148, ../sass/styles.scss */
+#stockPage .stockInfo .bullBearBar .bullBar {
+  background-color: #2add4c;
+  float: left;
+  clear: none;
+  height: 3px;
+  width: 60%;
+}
+/* line 155, ../sass/styles.scss */
+#stockPage .stockInfo .bullBearBar .bearBar {
+  background-color: #e83107;
+  float: left;
+  clear: none;
+  height: 3px;
+  width: 40%;
 }

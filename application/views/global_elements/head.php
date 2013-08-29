@@ -4,7 +4,9 @@
 	<meta charset="utf-8">
 	<title><?php echo $user_email ?></title>
 	<link href="/application/stylesheets/styles.css" rel="stylesheet" />
+	<link href="/application/third_party/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
 
+	<!-- JS from 3rd parties and base js -->
 	<script src="/application/javascripts/third-party/jquery.js" 
 					type="text/javascript"></script>
 
@@ -14,16 +16,22 @@
 					type="text/javascript"></script>
 	<script src="/application/javascripts/bootstrap/bootstrap-modal.js" 
 					type="text/javascript"></script>
+	<script src="/application/javascripts/bootstrap/bootstrap-tooltip.js" 
+					type="text/javascript"></script>
+	<script src="/application/javascripts/bootstrap/bootstrap-popover.js" 
+					type="text/javascript"></script>
+	<script src="/application/javascripts/bootstrap/bootstrap-alert.js" 
+					type="text/javascript"></script>
 
+	<!-- JS used on all pages -->
 	<script src="/application/javascripts/elements/LogInModal.js" 
 					type="text/javascript"></script>
- 
 
-	<!-- Load JS for each page -->
+	<!-- JS for specific pages -->
 	<?php 
 		switch ($pageID) {
-			case 'userSignUp': ?>
-				<script src="/application/javascripts/pages/UserSignUpPage.js" 
+			case 'homeFeed': ?>
+				<script src="/application/javascripts/pages/homeFeed.js" 
 					type="text/javascript"></script>
 				<?php
 				break;
@@ -34,14 +42,6 @@
 				break;
 		}
 	?>
-
-
-	<script type="text/javascript" src="http://platform.linkedin.com/in.js">
-	  api_key: lydbpp0zdpad
-	  onLoad: LinkedIn.onLinkedInLoad
-  	authorize: true
-	</script>
-
 </head>
 <body>
 

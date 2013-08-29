@@ -38,15 +38,19 @@
 |
 */
 
-$route['users'] = "UserSignUpController";
-$route['ajax/user-sign-up-via-email'] = "UserSignUpViaEmailAjaxController";
-$route['ajax/user-log-in-via-email'] = "UserLogInViaEmailAjaxController";
-$route['user-create-profile'] = "UserCreateProfileController";
-$route['ajax/user-create-full-profile'] = "CreateFullProfileAjaxController";
-$route['user-create-anon-profile'] = "UserCreateAnonProfileController";
-$route['log-out'] = "LogOutController";
+$route['stock'] = "StockPageController";
+$route['default_controller'] = "HomeFeedController";
 
-$route['default_controller'] = "SplashUniversalController";
+// Jobgram examples
+// $route['users'] = "UserSignUpController";
+// $route['ajax/user-sign-up-via-email'] = "UserSignUpViaEmailAjaxController";
+// $route['ajax/user-log-in-via-email'] = "UserLogInViaEmailAjaxController";
+// $route['user-create-profile'] = "UserCreateProfileController";
+// $route['ajax/user-create-full-profile'] = "CreateFullProfileAjaxController";
+// $route['user-create-anon-profile'] = "UserCreateAnonProfileController";
+// $route['log-out'] = "LogOutController";
+// $route['default_controller'] = "SplashUniversalController";
+
 $route['404_override'] = '';
 
 

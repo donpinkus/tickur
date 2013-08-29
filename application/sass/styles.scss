@@ -16,8 +16,7 @@ body {
 }
 
 .center {
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0px auto;
 }
 
 .container {
@@ -28,27 +27,139 @@ body {
 	width: 940px;
 }
 
-/**
- * Page specific
+/****************
+ * Pages
  */
-#splashUniversal,
-#userSignUp {
-	.hero-unit {
-		text-align: center;
-		margin-top: 60px;
+
+//TODO: margin-right and margin-left -1 is done to handle spans. Maybe border-
+// box can fix this? 
+
+// TODO: use variables. 
+#homeFeed {
+	body {
+		background-color: #E9EAED;
+	}
+	.stockFeed{
+		padding-top: 60px;
+		.tile {
+		margin-bottom: 24px;
+		background-color: white;
+		.bullBearBar {
+			margin-right: -1px;
+			margin-left: -1px;
+			.bullBar {
+				background-color: #2add4c;
+				float: left;
+				clear: none;
+				height: 3px;
+				width: 60%;
+			}
+			.bearBar {
+				background-color: #e83107;
+				float: left;
+				clear: none;
+				height: 3px;
+				width: 40%;
+			}
+		}
+		.tileHead {
+			height: 50px;
+			border: 1px solid rgba(0,0,0,0.2);
+			padding: 8px 12px;
+			margin-right: -1px;
+			margin-left: -1px;
+			.name {
+				float: left;
+				clear: none;
+			}
+			.value {
+				float: right;
+				clear: none;
+				.positive {
+					color: #2add4c;
+				}
+				.negative {
+					color: #e83107;
+				}
+			}
+		}
+		.tileContent {		
+			.opiononBlockContainer {
+				border-left: 1px solid rgba(0,0,0,0.2);
+				border-right: 1px solid rgba(0,0,0,0.2);
+				border-bottom: 1px solid rgba(0,0,0,0.2);
+				padding-top: 8px;
+				margin-left: -1px;
+				margin-right: -1px;
+				.opinionBlock {
+					.stats {
+						padding-left: 12px;
+						margin-right: -12px;
+						i {
+							color: rgba(0,0,0,0.5);
+							font-size: 16px;
+						}
+						i:hover {
+							color: #45619D;
+							cursor: pointer;
+						}
+						.score {
+							color: rgba(0,0,0,0.5);
+							margin: 0px;
+							padding: 0px;
+						}
+						.bear {
+							color: #e83107;
+						}
+						.bull {
+							color: #2add4c;
+						}
+					}
+				}
+			}
+		}
+		.tileActions {		
+			padding: 8px 12px;
+			border-left: 1px solid rgba(0,0,0,0.2);
+			border-right: 1px solid rgba(0,0,0,0.2);
+			border-bottom: 1px solid rgba(0,0,0,0.2);
+			margin-left: -1px;
+			margin-right: -1px;
+			background-color: #F6F7F8;
+			.initialActions {
+				height: 28px;
+			}
+			.userComment {
+				margin-top: 10px;
+				textarea {
+					width: 95%; // Why do textareas not respect padding?
+				}
+			}
+		}
 	}
 }
+}
 
-#userSignUp {
-	.orSeperator {
-		margin-top: 130px;
-		font-size: 30px;
-	}
-
-	label.control-label {
-		width: 60px;
-	}
-	.form-horizontal .controls {
-		margin-left: 70px;
+#stockPage {
+	h1 {color: red}
+	.stockInfo {
+		padding-top: 60px;
+		.bullBearBar {
+			.bullBar {
+				background-color: #2add4c;
+				float: left;
+				clear: none;
+				height: 3px;
+				width: 60%;
+			}
+			.bearBar {
+				background-color: #e83107;
+				float: left;
+				clear: none;
+				height: 3px;
+				width: 40%;
+			}
+		}
 	}
 }
+	
